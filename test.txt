@@ -1,2 +1,3 @@
 test file
-added some text
+added some text 
+chnages by other developer
