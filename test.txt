@@ -1,3 +1,6 @@
 test file
 added some text
 my change added
+added some text 
+chnages by other developer
+
